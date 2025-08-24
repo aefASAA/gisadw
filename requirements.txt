@@ -1,0 +1,21 @@
+# 网络爬虫程序依赖包
+# 自动生成于安装过程
+
+# 基础依赖包
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.1
+openpyxl==3.1.2
+
+# 增强功能包
+fake-useragent==1.4.0
+selenium==4.15.2
+webdriver-manager==4.0.1
+tqdm==4.66.1
+colorama==0.4.6
+
+# 开发工具包 (可选)
+# pytest
+# black
+# flake8
+# mypy
